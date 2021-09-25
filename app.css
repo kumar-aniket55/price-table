@@ -160,6 +160,14 @@ li:nth-of-type(2){
         /* border:2px solid red; */
         width: 35%;
     }
+	.pricing-plan:nth-of-type(1)
+    {
+        margin-top: 45px;
+    }
+    .pricing-plan:nth-of-type(3)
+    {
+        margin-bottom: 20px;
+    }
 
 }
 
